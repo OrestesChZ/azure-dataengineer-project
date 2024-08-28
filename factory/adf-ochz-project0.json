@@ -1,0 +1,9 @@
+{
+	"name": "adf-ochz-project0",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f8da8df-1c12-49a6-86a1-463a183b4151",
+		"tenantId": "404584ba-ca70-4aae-a5fe-3a6d1a9456c5"
+	}
+}
