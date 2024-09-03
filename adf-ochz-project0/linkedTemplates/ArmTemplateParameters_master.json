@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-ochz-project0"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://project0datalake.dfs.core.windows.net/"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://keyvault-ochz-project0.vault.azure.net/"
+		},
+		"onpremsql_properties_typeProperties_server": {
+			"value": "192.168.0.13"
+		},
+		"onpremsql_properties_typeProperties_database": {
+			"value": "AdventureWorksLT2017"
+		},
+		"onpremsql_properties_typeProperties_userName": {
+			"value": "ochz"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
