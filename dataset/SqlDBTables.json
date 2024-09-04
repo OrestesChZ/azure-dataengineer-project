@@ -1,0 +1,12 @@
+{
+	"name": "SqlDBTables",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "onpremsql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	}
+}
