@@ -11,6 +11,9 @@
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://project0datalake.dfs.core.windows.net/"
 		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0905-222330-un7kf1g2"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://keyvault-ochz-project0.vault.azure.net/"
 		},
@@ -22,9 +25,6 @@
 		},
 		"onpremsql_properties_typeProperties_userName": {
 			"value": "ochz"
-		},
-		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
-			"value": "0905-222330-un7kf1g2"
 		},
 		"containerUri": {
 			"value": ""
